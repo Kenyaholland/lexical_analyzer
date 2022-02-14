@@ -48,22 +48,23 @@ These are not:
 
 ### Typical  Statements (legal and illegal)
 
-a = b;
-a=af+=
-a=;
-a_5 = 2;
-6 = j;
-a=d*
-dd5=((3+5*8);
-%iii=0
-a=b2-(((x_yz + 99)* abc)*d);
-qwerty=((6 - abcd)*(a + b));
- xyz = (9*8*7*6)/(a+b+c);
+a = b;  
+a=af+=  
+a=;  
+a_5 = 2;  
+6 = j;  
+a=d*  
+dd5=((3+5*8);  
+%iii=0   
+a=b2-(((x_yz + 99)* abc)*d);  
+qwerty=((6 - abcd)*(a + b));  
+ xyz = (9*8*7*6)/(a+b+c);  
 
 ### A legal program
 
-~ a typical, minimal legal program
-begin
-  qwerty=((6 - ab_cd)*(a + b));
-  xyz = (9*8*7765*6)/(a+b+c);
-end
+~ a typical, minimal legal program  
+begin  
+  qwerty=((6 - ab_cd)*(a + b));  
+  xyz = (9*8*7765*6)/(a+b+c);  
+end  
+ 
