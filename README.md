@@ -7,7 +7,8 @@ This project has been implemented over the course of a full semester, broken dow
 2. cd into "lexical_analyzer"
 3. Type "make"
 4. Type ./run
-5. The output of checking all 8 text fiels for errors will show.   
+5. The output of checking all 8 text files for a legal program will show.   
+   
 If a text files has no errors, the program will display all lexeme ID's used. If a text file does have an error, the program will display the line number and type of error that occured. For example: Line 2 contains an error, missing a ';'
 
 ## Project Description: Part 1
