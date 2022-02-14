@@ -2,7 +2,7 @@
 
 This project has been implemented over the course of a full semester, broken down into separate parts. (In progress Spring 2022)
 
-##Project Description: Part 1
+## Project Description: Part 1
 
 You will implement this program in the C programming language. You must provide a makefile and your program must run on the ssh server in Linux. Your program will implement the pseudocode described in class as needed, adding, removing or editing elements as needed. Your application must take one command-line argument, the name of the file to be checked. The file will contain a number of assignment statements. Each assignment statement will be terminated by a semicolon (;). Furthermore, your group of assignment statements must be delimited by the "begin"  and "end" reserved words with a dot (.) after the "end" token. The intent is that programs will be free format, meaning that indentations do not matter, multiple statements are permitted on a line,  a statement may appear on multiple lines (with no continuation character). Finally, your program must include a capability to provide comments. Comments will be on a single line and they will start with a tilda:
 
@@ -46,7 +46,7 @@ These are not:
 
       e__7, abc_,  7yght, _iuh
 
-###Typical  Statements (legal and illegal)
+### Typical  Statements (legal and illegal)
 
 a = b;
 a=af+=
@@ -60,7 +60,7 @@ a=b2-(((x_yz + 99)* abc)*d);
 qwerty=((6 - abcd)*(a + b));
  xyz = (9*8*7*6)/(a+b+c);
 
-###A legal program
+### A legal program
 
 ~ a typical, minimal legal program
 begin
